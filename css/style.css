@@ -141,6 +141,7 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
     
 }
 .div-block2{
@@ -152,6 +153,7 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
 
 }
 .div-block3{
@@ -163,6 +165,7 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
 }
 .div-block4{
     width: 370px;
@@ -173,6 +176,7 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
 }
 .div-block5{
     width: 370px;
@@ -183,6 +187,7 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
 }
 .div-block6{
     width: 370px;
@@ -193,12 +198,14 @@
     align-items: center;
     text-align: center;
     color: white;
+    margin-top: 30px;
 }
 .all-block{
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     width: 1180px;
-    justify-content: space-between;
+    
     margin: 30px auto;
 
 }
