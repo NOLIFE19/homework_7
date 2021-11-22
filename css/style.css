@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&display=swap');
+.header{
+    display: flex;
+    align-items: center;
+    width: 1500px;
+    margin: 30px auto;
+}
+.logo{
+    color: #3D37F1;
+    font-family: 'Montagu Slab', serif;
+    font-size: 32px;
+    display: flex;
+    margin: 30px auto;
+    
+}
+.web{
+    font-weight: bold;
+    color:#3D37F1;
+}
+    
+    
+.ui{
+    font-weight: light;
+    color: #4B647E;
+    
+}
+.nav{
+    display: FLEX;
+    justify-content: space-around;
+    width: 581px;
+    margin-left: 900px;
+    margin-right: 50px;
+}
+.nav-li{
+    font-family: 'Montagu Slab', serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #3D37F1;
+}
+/* end header */
+/* start section */
+.sec{
+    width: 1500px;
+    margin: 30px auto;
+    display: flex;
+    align-items: center;
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-right: 307px;
+
+
+}
+.h1{
+    font-size: 78px;
+    font-weight: bold;
+    font-family: 'Montagu Slab', serif;
+    width: 600px;
+    margin-top: 285px;
+    color: #534D4D;
+}
+.p{
+    font-size: 18px;
+    margin-top: 42px;
+    margin-bottom: 84px;
+}
+.text-hello{
+    display: flex;
+    align-items: center;
+    background-color: #3D37F1;
+    justify-content: space-around;
+    border-radius: 50px;
+    width: 264px;
+    height: 76px;
+}
+.wave{
+    width: 30px;
+    margin-left: 42px;
+    margin-right: 24px;
+}
+.wave-p{
+    color: #FFFFFF;
+    font-size: 23px;
+    font-family: 'Montagu Slab', serif;
+    width: 106px;
+    margin-right: 60px;
+}
+.box2{
+   
+ vertical-align: baseline;
+ font: inherit;
+}
+.box2-photo{
+    width: 801px;
+    height: 527px;
+    margin: 100px auto;
+}
+ /*end section  */
+ /* start section 2 */
+
+
+.sec2-hed{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sec2-h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #3D37F1;
+    font-family: 'Montagu Slab', serif;
+    margin-top: 87px;
+    margin-bottom: 17px;
+}
+.sec2-h2{
+    font-size: 40px;
+    font-weight: regular;
+    color: #5A5454;
+    margin-bottom: 21px;
+}
+.sec2-p{
+    font-size: 18px;
+    font-weight: regular;
+    color: #747474;
+    text-align: center;
+    width: 712px;
+    height: 85px;
+    margin-bottom: 67px;
+
+}
